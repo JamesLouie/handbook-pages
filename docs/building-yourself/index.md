@@ -1,7 +1,7 @@
 ---
 layout: default
-title: College Preparation
-nav_order: 2
+title: Building Yourself
+nav_order: 4
 has_children: true
 ---
 
