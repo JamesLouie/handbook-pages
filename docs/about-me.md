@@ -1,5 +1,4 @@
 ---
-theme: jekyll-theme-cayman
 title: "About Me"
 permalink: /about-me/
 ---
