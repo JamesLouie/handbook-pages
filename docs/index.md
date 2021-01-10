@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Handbook
+title: Home
 nav_order: 1
 description: "Resource for new software engineers to learn how to be successful in the workplace"
 permalink: /
