@@ -41,4 +41,6 @@ You will learn the basics of different programming styles such as Object Oriente
 
 These classes will go into how to develop quality solutions. By learning language semantics, compilers, operating systems - you will be able to be a polyglot of programming languages and be able to swap to different technologies throughout your career which will make you more flexible for employment as well as opening new doors in your current work.
 
+## Project Courses
 
+These are the **MOST** important classes that I took during university. If possible I would find time to take extra project courses because they expose you to more real world scenarios, compared to academia that universities usually try to teach. In my project courses I was exposed to: project management, source control, design patterns, testing, user design, code reviews - the list goes on. **TAKE THEM!**
