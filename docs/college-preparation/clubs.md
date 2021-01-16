@@ -14,9 +14,7 @@ Much of what I new about the software industry is because of the clubs I was aff
 
 ## Organization Leadership
 
-I wasn't chess club president in high school, so college clubs was my first experience at leading a group of people.
-
-You'll be tasked with a lot of hard decisions, some of which will be great successes and some will be epic failures. This was an important learning lesson for me, because I made some HUGE mistakes during my time that has shaped how I approach leadership in my career now. You learn a lot about yourself and how your beliefs work with real people, and I think thats invaluable experience.
+I wasn't chess club president in high school, so college clubs was my first experience at working a group of people on something that had a real impact. You will learn how about planning, logistics, and leadership. You'll be tasked with a lot of hard decisions, some of which will be great successes and some will be epic failures. This was an important learning lesson for me, because I made some HUGE mistakes during my time that has shaped how I approach leadership in my career now. You learn a lot about yourself and how your beliefs work with real people, and I think thats invaluable experience.
 
 ## Social Life
 
