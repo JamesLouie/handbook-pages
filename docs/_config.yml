@@ -1,2 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
 title: The Handbook
+aux_links:
+  "The Handbook on Github":
+    - "https://github.com/JamesLouie/handbook-pages/issues"
