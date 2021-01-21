@@ -23,3 +23,7 @@ I want to provide insight into how you can be more effective before starting, wh
 This website is collection of topics that I think would be helpful in the journey of budding software engineers. There are parent sections that organize topics into different phases of one's career. Feel free to jump to different sections that apply to you.
 
 If you have questions, feel free to stop by [Github Issues](https://github.com/JamesLouie/handbook-pages/issues) and ask away!
+
+## Disclaimer
+
+I put in some Amazon affiliate links on this website, but honestly I'd imagine even if everyone bought something I'd have enough to pay for some boba by the end of the year. So don't feel like I'm pressuring you guys to buy anything, I'm just doing it for fun, I stand 1000% by any reference I provided on the site.
