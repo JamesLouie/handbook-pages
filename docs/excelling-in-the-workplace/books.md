@@ -25,3 +25,9 @@ Second most influencial book I have read for developers. Gives you a framework f
 Read the section about managing up, this goes into more depth than I covered in my section.
 
 [Buy it on Amazon](https://amzn.to/3935Mvr)
+
+## Drive
+
+This was a book I had to read during management training, and what it taught me is the basis of motivation. It argues that the carrot-and-stick approach only breeds temporary motivation and stifles true motivation in the long run. What we need to focus on is the intrinsic (here it is again!) goals such as meaningfulness and flow to drive greater satisfaction instead of extrinsic goals such as reward and punishment. This is helpful in understanding a lot of workplace dynamics and how to motivate yourself and your team to success.
+
+[Buy it on Amazon](https://amzn.to/3aeE1AB)
