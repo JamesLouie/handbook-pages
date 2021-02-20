@@ -24,6 +24,24 @@ This website is collection of topics that I think would be helpful in the journe
 
 If you have questions, feel free to stop by [Github Issues](https://github.com/JamesLouie/handbook-pages/issues) and ask away!
 
+## Books, Books Everywhere!
+
+There will be some sections where I just tell you to read a certain book, and I really mean it. I'm sure some of the students reading this will roll your eyes - but hear me out. When you read books with a self-motivated purpose, the content is so much more meaningful. When you pick up and read [The Subtle Art of Not Giving a F*ck](https://amzn.to/2Zb9L3B) for the first time, your whole understanding of the world will change.
+
+Books have been my go-to resource because they are specifically crafted to teach you about something. You are exposed to ideas that you can re-read, examples to reinforce the meanings, and they allow you to reflect on the topics at your own pace.
+
+Many of the worlds most successful people attribute their success to books,
+
+Elon Musk quotes "books raised him", in that it allowed him to quickly become knowledgable about completely different domains such as finance, electric cars, and rockets.
+
+Jeff Bezos literally built a bookstore from his love of books and swears by [The Effective Executive: The Definitive Guide to Getting the Right Things Done](https://www.amazon.in/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459) which was a factor in him building one of the worlds most valuable companies.
+
+Warren Buffet mentions in his biography mentions that he spends 80% of his time reading, and that guy knows a thing or two about finance and wealth.
+
+The [list](https://baos.pub/5-self-made-billionaires-on-the-importance-of-reading-cd14be1ba549) goes on...
+
+The internet is great for finding resources about anything, but books guide you through all that information in a powerful way.
+
 ## Disclaimer
 
 I put in some Amazon affiliate links on this website, but honestly I'd imagine even if everyone bought something I'd have enough to pay for some boba by the end of the year. So don't feel like I'm pressuring you guys to buy anything, I'm just doing it for fun, I stand 1000% by any reference I provided on the site.
