@@ -50,6 +50,10 @@ One especially important mention for this section is the overvaluation of this p
 
 The second level of design principles applies the foundational principles into practical advice.
 
+### Keep it Simple, Stupid (KISS)
+
+Code that is simpler is better than code that is complex. When code is complex, it makes it harder to maintain and takes more time and effort to read and change. That is not to say there is no complex code in the world, but try to simplify it such that it removes unneccessary ambiguity.
+
 ### Don't Repeat Yourself (DRY)
 
 Code is power because it defines a specific set of actions, once defined never has to be defined again. Unfortunately that is not the case and we repeat our code all over the place. Copy...Pasta... all over. We realize we need to change that code, now we have to find all the instances of that copy/paste and update them to follow the new pattern.
@@ -87,3 +91,7 @@ A big push in the industry to is move towards functional programming, and for go
 Tons of good information in this [article](https://towardsdatascience.com/why-developers-are-falling-in-love-with-functional-programming-13514df4048e), and much more on the internet about how functional programming can reduce side effects.
 
 In the field I generally think there is room for both object oriented and functional programming, and they are both tools for you to create good code. The real secret is to know in what situations they apply to and what is better for your team.
+
+## Write Code that Has Value
+
+There is a lot of theory and philosophy in this section, but the ultimately good code is something that has produces value. You'll hear time and time again how many of these super successful tech firms are held up by some old monster of a code they built back when they were starting out that runs the core part of their business. It might not be the most artistic code you've ever seen, but what is create crucial value and it works - and that's all it really needs to do.
