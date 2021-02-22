@@ -26,7 +26,7 @@ If you have questions, feel free to stop by [Github Issues](https://github.com/J
 
 ## Books, Books Everywhere!
 
-There will be some sections where I just tell you to read a certain book, and I really mean it. I'm sure some of the students reading this will roll your eyes - but hear me out. When you read books with a self-motivated purpose, the content is so much more meaningful. When you pick up and read [The Subtle Art of Not Giving a F*ck](https://amzn.to/2Zb9L3B) for the first time, your whole understanding of the world will change.
+There will be some sections where I just tell you to read a certain book, and I really mean it. I'm sure some of the students reading this will roll your eyes - but hear me out. When you read books with a self-motivated purpose, the content is so much more meaningful. When you pick up and read [The Subtle Art of Not Giving a F*ck](https://amzn.to/2Zb9L3B) for the first time, your whole understanding of the world will change. There's only so much I can condense into these articles.
 
 Books have been my go-to resource because they are specifically crafted to teach you about something. You are exposed to ideas that you can re-read, examples to reinforce the meanings, and they allow you to reflect on the topics at your own pace.
 
