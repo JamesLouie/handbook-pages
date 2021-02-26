@@ -9,8 +9,6 @@ My name is James Louie and I've been a working in the software industry for arou
 
 ## Plugs
 
-You can find more content on my [Medium/@JamesLouie12](https://medium.com/@JamesLouie12).
-
-I also have a [Github/JamesLouie](https://github.com/JamesLouie).
-
-And a [LinkedIn/jameslouie](https://www.linkedin.com/in/jameslouie/).
+* [Medium/@JamesLouie12](https://medium.com/@JamesLouie12)
+* [Github/JamesLouie](https://github.com/JamesLouie)
+* [LinkedIn/jameslouie](https://www.linkedin.com/in/jameslouie/)
