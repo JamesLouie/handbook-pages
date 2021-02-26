@@ -1,6 +1,6 @@
 ---
 name: Books
-nav_order: 8
+nav_order: 9
 parent: Excelling in the Workplace
 ---
 
