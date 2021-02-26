@@ -1,6 +1,6 @@
 ---
 name: Fundamentals of Good Code
-nav_order: 7
+nav_order: 5
 parent: Excelling in the Workplace
 ---
 
