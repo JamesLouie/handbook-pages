@@ -13,5 +13,5 @@ The name of the game is preparation, and the ones that best prepare will have th
 
 This is not a guide to get you into any specific company, but for general knowledge from reflecting on my college decisions and how they have helped me.
 
-If you want to get into specific companies like F.A.N.G, you should read the holy grail, [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) by Gayle Laakman McDowell.
+If you want to get into specific companies like F.A.A.N.G, you should read the holy grail, [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) by Gayle Laakman McDowell.
 
