@@ -1,7 +1,7 @@
 ---
 name: New Hire Experiences and Expectations
 nav_order: 1
-parent: Excelling in the Workplace
+parent: Workplace Basics
 ---
 
 # New Hire Experiences and Expectations

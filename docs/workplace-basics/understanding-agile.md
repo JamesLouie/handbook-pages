@@ -1,7 +1,7 @@
 ---
 name: Understanding Agile
 nav_order: 5
-parent: Excelling in the Workplace
+parent: Workplace Basics
 ---
 
 # Understanding Agile

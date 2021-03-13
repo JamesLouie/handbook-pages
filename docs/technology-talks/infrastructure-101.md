@@ -1,7 +1,7 @@
 ---
 name: Infrastructure 101
 nav_order: 1
-parent: Excelling in the Workplace
+parent: Technology Talks
 ---
 
 # Infrastructure 101

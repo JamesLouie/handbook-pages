@@ -1,7 +1,7 @@
 ---
 name: Coding in the Wild
 nav_order: 4
-parent: Excelling in the Workplace
+parent: Workplace Basics
 ---
 
 # Coding in the Wild

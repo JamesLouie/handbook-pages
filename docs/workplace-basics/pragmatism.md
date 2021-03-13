@@ -1,7 +1,7 @@
 ---
 name: Pragmatism
 nav_order: 2
-parent: Excelling in the Workplace
+parent: Workplace Basics
 ---
 
 # Pragmatism
