@@ -1,6 +1,6 @@
 ---
 name: Developer Maturity Model
-nav_order: 8
+nav_order: 3
 parent: Excelling in the Workplace
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Understanding Agile
-nav_order: 6
+nav_order: 5
 parent: Excelling in the Workplace
 ---
 
