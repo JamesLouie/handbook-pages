@@ -2,6 +2,6 @@ remote_theme: pmarsceill/just-the-docs
 title: The Handbook
 aux_links:
   "The Handbook on Github":
-    - "https://github.com/JamesLouie/handbook-pages/issues"
+    - "https://github.com/JamesLouie/handbook-pages/discussions"
 aux_links_new_tab: true
 ga_tracking: UA-178288001-1

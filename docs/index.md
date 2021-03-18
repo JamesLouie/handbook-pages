@@ -26,7 +26,7 @@ My mission is to create a better environment in the workplace so that new develo
 
 This website is collection of topics that I think would be helpful in the journey of budding software engineers. There are parent sections that organize topics into different phases of one's career. Feel free to jump to different sections that apply to you.
 
-If you have questions, feel free to stop by [Github Issues](https://github.com/JamesLouie/handbook-pages/issues) and ask away!
+If you have questions, feel free to stop by [Github Discussions](https://github.com/JamesLouie/handbook-pages/discussions) and ask away!
 
 ## Books, Books Everywhere!
 
