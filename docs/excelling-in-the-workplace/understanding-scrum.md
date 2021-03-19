@@ -1,6 +1,6 @@
 ---
 name: Understanding Scrum
-nav_order: 2
+nav_order: 3
 parent: Excelling in the Workplace
 ---
 
