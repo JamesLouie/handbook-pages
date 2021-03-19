@@ -53,7 +53,7 @@ If you know exactly what company you want to apply to, the simplest thing you an
 
 Pros
 * Simple
-* Companies oftern prefer this
+* Companies often prefer this
 
 Cons
 * Often don't get a response back
