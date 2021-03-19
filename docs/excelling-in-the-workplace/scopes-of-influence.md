@@ -10,7 +10,7 @@ Eventually many of us who enter the workforce will end up at huge companies with
 
 ## Circles of Concern vs Influence
 
-Taken from [7 Habits of Highly Effective People](), is the idea of your circle of concern vs circle of influence.
+Taken from [7 Habits of Highly Effective People](https://amzn.to/2Nm0oew), is the idea of your circle of concern vs circle of influence.
 
 The idea is that there are two circles:
 * Circle of Concern - The Things you care about
